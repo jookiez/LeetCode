@@ -1,0 +1,13 @@
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\bin\Debug\netcoreapp3.1\LeetCode1200.exe
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\bin\Debug\netcoreapp3.1\LeetCode1200.deps.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\bin\Debug\netcoreapp3.1\LeetCode1200.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\bin\Debug\netcoreapp3.1\LeetCode1200.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\bin\Debug\netcoreapp3.1\LeetCode1200.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\bin\Debug\netcoreapp3.1\LeetCode1200.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\obj\Debug\netcoreapp3.1\LeetCode1200.csprojAssemblyReference.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\obj\Debug\netcoreapp3.1\LeetCode1200.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\obj\Debug\netcoreapp3.1\LeetCode1200.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\obj\Debug\netcoreapp3.1\LeetCode1200.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\obj\Debug\netcoreapp3.1\LeetCode1200.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\obj\Debug\netcoreapp3.1\LeetCode1200.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode1200\obj\Debug\netcoreapp3.1\LeetCode1200.genruntimeconfig.cache
