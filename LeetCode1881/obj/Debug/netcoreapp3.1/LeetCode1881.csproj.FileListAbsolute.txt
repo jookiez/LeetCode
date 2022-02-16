@@ -1,0 +1,13 @@
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\bin\Debug\netcoreapp3.1\LeetCode1881.exe
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\bin\Debug\netcoreapp3.1\LeetCode1881.deps.json
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\bin\Debug\netcoreapp3.1\LeetCode1881.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\bin\Debug\netcoreapp3.1\LeetCode1881.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\bin\Debug\netcoreapp3.1\LeetCode1881.dll
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\bin\Debug\netcoreapp3.1\LeetCode1881.pdb
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\obj\Debug\netcoreapp3.1\LeetCode1881.csprojAssemblyReference.cache
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\obj\Debug\netcoreapp3.1\LeetCode1881.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\obj\Debug\netcoreapp3.1\LeetCode1881.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\obj\Debug\netcoreapp3.1\LeetCode1881.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\obj\Debug\netcoreapp3.1\LeetCode1881.dll
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\obj\Debug\netcoreapp3.1\LeetCode1881.pdb
+C:\Users\Wags\source\repos\LeetCode1881\LeetCode1881\obj\Debug\netcoreapp3.1\LeetCode1881.genruntimeconfig.cache
