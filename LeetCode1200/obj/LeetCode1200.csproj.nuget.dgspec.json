@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1881\\LeetCode1881.csproj": {}
+    "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1200\\LeetCode1200.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1881\\LeetCode1881.csproj": {
+    "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1200\\LeetCode1200.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1881\\LeetCode1881.csproj",
-        "projectName": "LeetCode1881",
-        "projectPath": "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1881\\LeetCode1881.csproj",
+        "projectUniqueName": "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1200\\LeetCode1200.csproj",
+        "projectName": "LeetCode1200",
+        "projectPath": "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1200\\LeetCode1200.csproj",
         "packagesPath": "C:\\Users\\Wags\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1881\\obj\\",
+        "outputPath": "C:\\Users\\Wags\\source\\repos\\LeetCode\\LeetCode1200\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wags\\AppData\\Roaming\\NuGet\\NuGet.Config",
