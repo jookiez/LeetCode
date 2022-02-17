@@ -1,0 +1,13 @@
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\obj\Debug\netcoreapp3.1\LeetCode39.csprojAssemblyReference.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\obj\Debug\netcoreapp3.1\LeetCode39.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\obj\Debug\netcoreapp3.1\LeetCode39.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\obj\Debug\netcoreapp3.1\LeetCode39.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\bin\Debug\netcoreapp3.1\LeetCode39.exe
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\bin\Debug\netcoreapp3.1\LeetCode39.deps.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\bin\Debug\netcoreapp3.1\LeetCode39.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\bin\Debug\netcoreapp3.1\LeetCode39.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\bin\Debug\netcoreapp3.1\LeetCode39.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\bin\Debug\netcoreapp3.1\LeetCode39.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\obj\Debug\netcoreapp3.1\LeetCode39.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\obj\Debug\netcoreapp3.1\LeetCode39.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode39\obj\Debug\netcoreapp3.1\LeetCode39.genruntimeconfig.cache
