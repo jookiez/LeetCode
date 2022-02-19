@@ -1,0 +1,12 @@
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\bin\Debug\netcoreapp3.1\LeetCode1046.exe
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\bin\Debug\netcoreapp3.1\LeetCode1046.deps.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\bin\Debug\netcoreapp3.1\LeetCode1046.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\bin\Debug\netcoreapp3.1\LeetCode1046.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\bin\Debug\netcoreapp3.1\LeetCode1046.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\bin\Debug\netcoreapp3.1\LeetCode1046.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\obj\Debug\netcoreapp3.1\LeetCode1046.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\obj\Debug\netcoreapp3.1\LeetCode1046.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\obj\Debug\netcoreapp3.1\LeetCode1046.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\obj\Debug\netcoreapp3.1\LeetCode1046.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\obj\Debug\netcoreapp3.1\LeetCode1046.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode1046\obj\Debug\netcoreapp3.1\LeetCode1046.genruntimeconfig.cache
