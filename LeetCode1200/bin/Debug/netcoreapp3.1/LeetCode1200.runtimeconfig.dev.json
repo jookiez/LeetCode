@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Wags\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Wags\\.nuget\\packages"
-    ]
-  }
-}
