@@ -1,0 +1,13 @@
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\bin\Debug\netcoreapp3.1\LeetCode402.exe
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\bin\Debug\netcoreapp3.1\LeetCode402.deps.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\bin\Debug\netcoreapp3.1\LeetCode402.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\bin\Debug\netcoreapp3.1\LeetCode402.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\bin\Debug\netcoreapp3.1\LeetCode402.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\bin\Debug\netcoreapp3.1\LeetCode402.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\obj\Debug\netcoreapp3.1\LeetCode402.csprojAssemblyReference.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\obj\Debug\netcoreapp3.1\LeetCode402.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\obj\Debug\netcoreapp3.1\LeetCode402.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\obj\Debug\netcoreapp3.1\LeetCode402.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\obj\Debug\netcoreapp3.1\LeetCode402.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\obj\Debug\netcoreapp3.1\LeetCode402.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode402\obj\Debug\netcoreapp3.1\LeetCode402.genruntimeconfig.cache
