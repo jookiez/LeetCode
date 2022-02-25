@@ -1,0 +1,13 @@
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\bin\Debug\netcoreapp3.1\LeetCode148.exe
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\bin\Debug\netcoreapp3.1\LeetCode148.deps.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\bin\Debug\netcoreapp3.1\LeetCode148.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\bin\Debug\netcoreapp3.1\LeetCode148.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\bin\Debug\netcoreapp3.1\LeetCode148.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\bin\Debug\netcoreapp3.1\LeetCode148.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\obj\Debug\netcoreapp3.1\LeetCode148.csprojAssemblyReference.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\obj\Debug\netcoreapp3.1\LeetCode148.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\obj\Debug\netcoreapp3.1\LeetCode148.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\obj\Debug\netcoreapp3.1\LeetCode148.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\obj\Debug\netcoreapp3.1\LeetCode148.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\obj\Debug\netcoreapp3.1\LeetCode148.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode148\obj\Debug\netcoreapp3.1\LeetCode148.genruntimeconfig.cache
