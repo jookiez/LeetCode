@@ -1,0 +1,12 @@
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\bin\Debug\netcoreapp3.1\LeetCode5.exe
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\bin\Debug\netcoreapp3.1\LeetCode5.deps.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\bin\Debug\netcoreapp3.1\LeetCode5.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\bin\Debug\netcoreapp3.1\LeetCode5.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\bin\Debug\netcoreapp3.1\LeetCode5.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\bin\Debug\netcoreapp3.1\LeetCode5.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\obj\Debug\netcoreapp3.1\LeetCode5.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\obj\Debug\netcoreapp3.1\LeetCode5.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\obj\Debug\netcoreapp3.1\LeetCode5.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\obj\Debug\netcoreapp3.1\LeetCode5.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\obj\Debug\netcoreapp3.1\LeetCode5.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode5\obj\Debug\netcoreapp3.1\LeetCode5.genruntimeconfig.cache
