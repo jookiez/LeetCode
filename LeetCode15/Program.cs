@@ -42,35 +42,6 @@ namespace LeetCode15
         // optimized
         static IList<IList<int>> BetterThreeSum(int[] nums)
         {
-            //    IList<IList<int>> result = new List<IList<int>>();
-            //    if (nums.Length == 0) return result;
-
-            //    var sortedList = new List<int>(nums);
-            //    sortedList.Sort();
-
-            //    var lastLow = int.MaxValue;
-            //    var lastHigh = int.MinValue;
-            //    for(int i = 0; i < sortedList.Count; i++)
-            //    {
-            //        if (sortedList[i] == lastLow) continue;
-            //        lastLow = sortedList[i];
-            //        for(int x = sortedList.Count -1; x > 0; x--)
-            //        {
-            //            if (sortedList[x] == lastHigh) continue;
-            //            lastHigh = sortedList[x];
-            //            for (int c = i + 1; c < x; c++)
-            //            {
-            //                var potential = sortedList[i] + sortedList[x] + sortedList[c];
-            //                if (potential == 0)
-            //                {
-            //                    result.Add(new List<int>() { sortedList[i], sortedList[x], sortedList[c] });
-            //                    break;
-            //                }
-            //            }
-            //        }                
-            //    }
-
-            //    return result;
 
             Array.Sort(nums);
 
