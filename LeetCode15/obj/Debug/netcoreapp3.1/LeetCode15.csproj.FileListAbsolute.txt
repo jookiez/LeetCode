@@ -1,0 +1,13 @@
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\bin\Debug\netcoreapp3.1\LeetCode15.exe
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\bin\Debug\netcoreapp3.1\LeetCode15.deps.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\bin\Debug\netcoreapp3.1\LeetCode15.runtimeconfig.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\bin\Debug\netcoreapp3.1\LeetCode15.runtimeconfig.dev.json
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\bin\Debug\netcoreapp3.1\LeetCode15.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\bin\Debug\netcoreapp3.1\LeetCode15.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\obj\Debug\netcoreapp3.1\LeetCode15.AssemblyInfoInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\obj\Debug\netcoreapp3.1\LeetCode15.AssemblyInfo.cs
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\obj\Debug\netcoreapp3.1\LeetCode15.csproj.CoreCompileInputs.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\obj\Debug\netcoreapp3.1\LeetCode15.dll
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\obj\Debug\netcoreapp3.1\LeetCode15.pdb
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\obj\Debug\netcoreapp3.1\LeetCode15.genruntimeconfig.cache
+C:\Users\Wags\source\repos\LeetCode\LeetCode15\obj\Debug\netcoreapp3.1\LeetCode15.csprojAssemblyReference.cache
